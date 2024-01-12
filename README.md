@@ -1,6 +1,6 @@
 # Lambda Machine
 
-when implementing lambda calculus as an interpreter,
+When implementing lambda calculus as an interpreter,
 the depth of the call stack is limited by the hosting language.
 To avoid this limitation we should implement lambda calculus by machine like SECD.
 
